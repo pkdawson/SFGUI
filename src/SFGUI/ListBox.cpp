@@ -5,6 +5,7 @@
 #include <SFGUI/Widgets.hpp>
 
 #include <algorithm>
+#include <iostream>
 
 #include <SFML/Graphics.hpp>
 
